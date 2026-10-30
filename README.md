@@ -4,7 +4,7 @@
 **Student:** Frunza Adrian  
 **Course:** Object-Oriented Programming (Lab 1)  
 **Instructor:** Dominic Flocea  
-**Repository:**  
+**Repository:**  https://github.com/adrianfza/OOP
 
 ---
 
